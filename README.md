@@ -1,4 +1,4 @@
-# COVID-19 Death Rate Analysis With 
+# COVID-19 Death Rate Analysis With Python
 This data science tutorial delves into the complexities of COVID-19 death rates, utilizing Python for insightful analysis and visualization. You'll join us on a journey to:
 
 # Uncover patterns: 
